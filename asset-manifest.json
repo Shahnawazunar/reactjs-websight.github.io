@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c6f79d7c.css",
+    "main.js": "/static/js/main.6fa01663.js",
+    "static/media/Travel.mp4": "/static/media/Travel.a593b0caed82c41bfdd8.mp4",
+    "static/media/kaaba.jpg": "/static/media/kaaba.1d10123037e666d7783f.jpg",
+    "static/media/aruba.webp": "/static/media/aruba.598767ac052cec46dd72.webp",
+    "static/media/kuwait.jpeg": "/static/media/kuwait.1d76115dee34dbc25d76.jpeg",
+    "static/media/turkey.jpg": "/static/media/turkey.a067176a14c9714a04a0.jpg",
+    "static/media/blog2.jpg": "/static/media/blog2.3e54c65537fd49371fc1.jpg",
+    "static/media/blog4.jpg": "/static/media/blog4.58d4dfd1ec0dd2d30bdd.jpg",
+    "static/media/great wall.webp": "/static/media/great wall.aa7a6bedf9f3dccdca60.webp",
+    "static/media/Estonia.jpg": "/static/media/Estonia.daa71fa4b3f4a19cb589.jpg",
+    "static/media/japan.avif": "/static/media/japan.0d115c852a535f90f449.avif",
+    "static/media/seeMap.jpg": "/static/media/seeMap.9af8ffc08a635885a8f3.jpg",
+    "static/media/blog1.jpg": "/static/media/blog1.73f60dfc310ccb2e3fe7.jpg",
+    "static/media/hikings.png": "/static/media/hikings.eecc4ee78ae3ad736232.png",
+    "static/media/maintans.png": "/static/media/maintans.f7ba80dda5b32bada686.png",
+    "static/media/home.jpg": "/static/media/home.097926db54a7b7e8c875.jpg",
+    "static/media/blog3.avif": "/static/media/blog3.759bfbc3364f86b62d5d.avif",
+    "static/media/custmer.png": "/static/media/custmer.ecf6d2af53eb06475b57.png",
+    "static/media/Australia.jpg": "/static/media/Australia.4838adba8ae68fdc3a5c.jpg",
+    "static/media/pakistan.jpg": "/static/media/pakistan.89fc109defe67836ad8c.jpg",
+    "static/media/Serbia.jpg": "/static/media/Serbia.e876f75a7b9a9eb54fd1.jpg",
+    "static/media/Norway.jpg": "/static/media/Norway.b8d11821847f2802bb19.jpg",
+    "static/media/tajj.jpg": "/static/media/tajj.36f752856fb7c148bb57.jpg",
+    "index.html": "/index.html",
+    "main.c6f79d7c.css.map": "/static/css/main.c6f79d7c.css.map",
+    "main.6fa01663.js.map": "/static/js/main.6fa01663.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6f79d7c.css",
+    "static/js/main.6fa01663.js"
+  ]
+}
